@@ -1,0 +1,21 @@
+.header, .body, .hero, .bar, .footer{
+	background-color: #ddd;
+	font-size: 50px;
+	color: white;
+
+}
+.box{
+	min-height: 80px;
+	background-color: cyan;
+	margin-bottom: 5px;
+
+
+}
+.coral{
+	background-color: coral;
+
+}
+.yellow{
+	background-color: yellow;
+	color: cyan;
+}s
